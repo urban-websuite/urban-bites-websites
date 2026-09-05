@@ -242,3 +242,10 @@ footer {
     background: #128C7E;
     transform: scale(1.05);
 }
+.card .whatsapp-btn {
+    margin-bottom: 25px;
+}
+
+.card .price {
+    margin-top: 5px;
+}
